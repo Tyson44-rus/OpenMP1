@@ -1,0 +1,3 @@
+﻿  OpenMP2.cpp
+C:\Users\mikha\source\repos\OpenMP2\OpenMP2\OpenMP2.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OpenMP2.vcxproj -> C:\Users\mikha\source\repos\OpenMP2\x64\Debug\OpenMP2.exe
